@@ -94,13 +94,13 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [06. **Build a Bookstore Page**]()
+#### [06. **Build a Bookstore Page**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/06-build-a-bookstore-page)
 
 - **Languages:** _HTML_ 
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Learn how to make cards with divs_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/06-build-a-bookstore-page/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
