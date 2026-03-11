@@ -263,80 +263,80 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 
 #### _**Accessibility**_
 
-#### [21. **Debug a Coding Journey Blog Page**]()
+#### [21. **Debug a Coding Journey Blog Page**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/21-debug-a-coding-journey-blog-page)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Debug accessibility errors in a blog page_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/21-debug-a-coding-journey-blog-page/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [22. **Build a Tech Conference Schedule Table**]()
+#### [22. **Build a Tech Conference Schedule Table**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/22-build-a-tech-conference-schedule-table)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Step by step, build an accessible tech conference schedule table_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/22-build-a-tech-conference-schedule-table/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [23. **Debug a Donation Form**]()
+#### [23. **Debug a Donation Form**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/23-debug-a-donation-form)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Fix the errors in the index file so the form works correctly_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/23-debug-a-donation-form/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [24. **Build an Accessible Audio Controller**]()
+#### [24. **Build an Accessible Audio Controller**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/24-build-a-book-catalog-page)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Step by step, build an accessible audio volume controller_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/24-build-a-book-catalog-page/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
 
-#### [25. **Build a Checkout Page**]()
+#### [25. **Build a Checkout Page**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/25-build-a-checkout-page)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Build an accessible checkout page_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/25-build-a-checkout-page/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [26. **Design a Movie Review Page**]()
+#### [26. **Design a Movie Review Page**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/26-design-a-movie-review-page)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Create a movie review page with alt attributes, accessible lists, and make use of aria-hidden._
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/26-design-a-movie-review-page/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [27. **Build a Multimedia Player**]()
+#### [27. **Build a Multimedia Player**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/27-build-a-multimedia-player)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Build a multimedia player with audio and video elements_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/27-build-a-multimedia-player/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
