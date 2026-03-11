@@ -1,14 +1,17 @@
 <img src="assets/pastel-banner.jpg" alt="Pastel Prism Banner" width="100%" height="5px" />
 
-# 🏕️ Projects from freeCodeCamp
+# Projects from freeCodeCamp
 
 ![Last Commit](https://img.shields.io/github/last-commit/PastelPrism/freecodecamp-responsive-web-design-certification)
 ![Top Language](https://img.shields.io/github/languages/top/PastelPrism/freecodecamp-responsive-web-design-certification)
 
-Hi there!👋
+Hi there, my name is Amy! 👋
 
-In **April 2025** I got challenged to do **every web development course** we could find. A challenge I happily accepted. 🎉
-This project folder is a big part of that challenge as this is the main project folder for all the projects from [freeCodeCamp!](https://www.freecodecamp.org) Certified Full Stack Developer Curriculum.
+This repository is part of a fun challenge to complete all fullstack of front-end developer courses. 
+For [freeCpdeCamp](https://www.freecodecamp.org) I decided to seperate the full curriculum, so here is part 1: the [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design-v9/) track.
+
+Inside, you’ll find all my labs, workshops, and certification projects from this track, including the extra assignments and tasks (for example, to make JavaScript only excersizes visible).  
+Up next: JavaScript Certification.
 
 <img src="assets/pastel-banner.jpg" alt="Pastel Prism Banner" width="100%" height="5px" />
 
@@ -16,29 +19,27 @@ This project folder is a big part of that challenge as this is the main project 
 
 The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, many, _many_ practice projects, real-life projects, quizzes, lectures, reviews and workshops. It's truly a treasure, this curriculum.
 
-This README is a bit messy here and there, but it will become better in a few weeks or months.
-
 <img src="assets/pastel-banner.jpg" width="100%" height="5px" />
 
 ## 📋 Projects
 
-### 📊 **Project Overview & Quick Stats**
+### **Project Overview & Quick Stats**
 
-| **Main Projects:**             | **Extra Challenges:**       |
-| ------------------------------ | --------------------------- |
-|  **Total Completed:** 0 / 0 | **Total Completed:** 0 / 0  |
-|  **Remaining:**  110          | **Remaining:**      174      |
-| **Progress:** 0% Completed | **Progress:** 6.9% Completed |
+| **Main Projects:** | **Certification Projects:** | **Extra Challenges:** |
+| ------------------ | ---------------------------- | --------------------- |
+| **Total Completed:** 0 / 61 | **Total Completed:** 0 / 5 | **Total Completed:** 0 / 61 |
+| **Remaining:** 61 | **Remaining:** 5 | **Remaining:** 61 |
+| **Progress:** 0% Completed | **Progress:** 0% Completed | **Progress:** 6.9% Completed |
 
 ### **HTML Projects**
 
 <details>
-<summary><strong>View all the projects from the HTML section (Click to expand)</strong></summary>
+<summary><strong>View all the HTML Projects Workshop and Lab assignments here</strong></summary>
 
 
 #### _**Basic HTML**_ 
 
-#### [01. **Build a Curriculum Outline**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/build-a-curriculum-outline)
+#### [01. **Build a Curriculum Outline**]()
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
@@ -49,7 +50,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [02. **Debug Camperbots Profile Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/camper-bot)
+#### [02. **Debug Camperbots Profile Page**]()
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
@@ -60,7 +61,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [03. **Debug a Pet Adoption Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/pet-adoption-page)
+#### [03. **Debug a Pet Adoption Page**]()
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
@@ -71,18 +72,18 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [04. **Build a Cat Photo App**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-cat-photo-app)
+#### [04. **Build a Cat Photo App**]()
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
-- **Assignment Description:** _Set up a basic html website about cats, from !Doctype to footer_
+- **Assignment Description:** _Set up a basic html website about cats_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [05. **Build a Recipe Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-recipe-page)
+#### [05. **Build a Recipe Page**]()
 
 - **Languages:** _HTML_ 
 - **Practical Activity:** _Lab_
@@ -93,7 +94,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [06. **Build a Bookstore Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-bookstore-page)
+#### [06. **Build a Bookstore Page**]()
 
 - **Languages:** _HTML_ 
 - **Practical Activity:** _Workshop_
@@ -104,7 +105,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [07. **Build a Travel Agency Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-travel-agency-page)
+#### [07. **Build a Travel Agency Page**]()
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
@@ -115,7 +116,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [08. **Build a HTML Music Player**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-travel-agency-page)
+#### [08. **Build a HTML Music Player**]()
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
@@ -126,7 +127,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [09. **Build a HTML Video Player**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-travel-agency-page)
+#### [09. **Build a HTML Video Player**]()
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
@@ -137,7 +138,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [10. **Build an HTML Audio and Video Player**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-an-html-audio-video-player)
+#### [10. **Build an HTML Audio and Video Player**]()
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
@@ -148,7 +149,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [11. **Build a Heart Icon**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-heart-icon)
+#### [11. **Build a Heart Icon**]()
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
@@ -159,7 +160,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [12. **Build a Video Display Using Iframe**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-video-display-using-iframe)
+#### [12. **Build a Video Display Using Iframe**]()
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
@@ -170,7 +171,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [13. **Build a Video Compilation Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-video-compilation-page)
+#### [13. **Build a Video Compilation Page**]()
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
@@ -183,7 +184,7 @@ This README is a bit messy here and there, but it will become better in a few we
 
 #### _**Semantic HTML**_
 
-#### [14. **Build a List of Major Web Browsers**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-list-of-major-web-browsers)
+#### [14. **Build a List of Major Web Browsers**]()
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
@@ -194,7 +195,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [15. **Build Quincy's Job Tips Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-quincys-job-tips-page)
+#### [15. **Build Quincy's Job Tips Page**]()
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
@@ -205,7 +206,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [16. **Build a Cat Blog Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-cat-blog-page)
+#### [16. **Build a Cat Blog Page**]()
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
@@ -216,8 +217,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [17. **Build an Event Hub**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-an-event-hub)
-
+#### [17. **Build an Event Hub**]()
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Design an event hub with upcoming and past events. Including a header, navigation bar and sections with images and articles_
@@ -229,7 +229,7 @@ This README is a bit messy here and there, but it will become better in a few we
 
 #### _**Forms and Tables**_
 
-#### [18. **Build a Hotel Feedback Form**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-hotel-feedback-form)
+#### [18. **Build a Hotel Feedback Form**]()
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
@@ -240,7 +240,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [19. **Build a Final Exams Table**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-final-exams-table)
+#### [19. **Build a Final Exams Table**]()
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
@@ -251,7 +251,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [20. **Build a Book Catalog Table**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-book-catalog-table)
+#### [20. **Build a Book Catalog Table**]()
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
@@ -264,9 +264,9 @@ This README is a bit messy here and there, but it will become better in a few we
 
 #### _**Accessibility**_
 
-#### [21. **Debug a Coding Journey Blog Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/debug-a-coding-journey-blog-page)
+#### [21. **Debug a Coding Journey Blog Page**]()
 
-- **Languages:**_ HTML_
+- **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Debug accessibility errors in a blog page_
 - **Assignment Page:** _Soon_
@@ -275,9 +275,9 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [22. **Build a Tech Conference Schedule Table**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-tech-conference-schedule-table)
+#### [22. **Build a Tech Conference Schedule Table**]()
 
-- **Languages:**_ HTML_
+- **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Step by step, build an accessible tech conference schedule table_
 - **Assignment Page:** _Soon_
@@ -286,9 +286,9 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [23. **Debug a Donation Form**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-tech-conference-schedule-table)
+#### [23. **Debug a Donation Form**]()
 
-- **Languages:**_ HTML_
+- **Languages:** _HTML_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Fix the errors in the index file so the form works correctly_
 - **Assignment Page:** _Soon_
@@ -297,9 +297,9 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [24. **Build an Accessible Audio Controller**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-tech-conference-schedule-table)
+#### [24. **Build an Accessible Audio Controller**]()
 
-- **Languages:**_ HTML_
+- **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Step by step, build an accessible audio volume controller_
 - **Assignment Page:** _Soon_
@@ -309,9 +309,9 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Status:** ⏳ 
 
 
-#### [25. **Build a Checkout Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-checkout-page)
+#### [25. **Build a Checkout Page**]()
 
-- **Languages:**_ HTML_
+- **Languages:** _HTML_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Build an accessible checkout page_
 - **Assignment Page:** _Soon_
@@ -320,7 +320,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [26. **Design a Movie Review Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-movie-review-page)
+#### [26. **Design a Movie Review Page**]()
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
@@ -331,7 +331,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [27. **Build a Multimedia Player**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-multimedia-player)
+#### [27. **Build a Multimedia Player**]()
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
@@ -347,11 +347,11 @@ This README is a bit messy here and there, but it will become better in a few we
 ### **CSS Projects**
 
 <details>
-<summary><strong>View all the projects from the CSS section (Click to expand)</strong></summary>
+<summary><strong>View all the CSS Projects Workshop and Lab assignments here</strong></summary>
 
 #### _**Basic CSS**_
 
-#### [28. **Design a Café Menu**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-cafe-menu)
+#### [28. **Design a Café Menu**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -362,7 +362,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [29. **Design a Businesscard**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-businesscard)
+#### [29. **Design a Businesscard**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -373,7 +373,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [30. **Build a Stylized To-do List**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-todo-list)
+#### [30. **Build a Stylized To-do List**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -384,7 +384,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [29. **Design a Blog Post Card**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-blog-post-card)
+#### [31. **Design a Blog Post Card**]()
 
 - **Languages:** _HTML &  CSS_
 - **Practical Activity:** _Lab_
@@ -397,7 +397,7 @@ This README is a bit messy here and there, but it will become better in a few we
 
 #### _**Absolute and Relative Units**_
 
-#### [31. **Build an Event Flyer Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-an-event-flyer-page)
+#### [32. **Build an Event Flyer Page**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -410,7 +410,7 @@ This README is a bit messy here and there, but it will become better in a few we
 
 #### _**Pseudo Classes and Elements**_
 
-#### [31. **Design a Greeting Card**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-greeting-card)
+#### [33. **Design a Greeting Card**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -421,7 +421,18 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [32. **Build a Job Application Form**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-job-application-form)
+#### [34. **Design a Parent Teacher Conference Form**]()
+
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Practice how to add custom styles to radio buttons_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳ 
+
+#### [35. **Build a Job Application Form**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -434,7 +445,7 @@ This README is a bit messy here and there, but it will become better in a few we
 
 #### _**Colors**_
 
-#### [33. **Build a Set of Colored Markers**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-set-of-colored-markers)
+#### [36. **Build a Set of Colored Markers**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -445,7 +456,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [34. **Design a Set of Colored Boxes**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-set-of-colored-boxes)
+#### [37. **Design a Set of Colored Boxes**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -458,7 +469,7 @@ This README is a bit messy here and there, but it will become better in a few we
 
 #### _**Styling Forms**_
 
-#### [35. **Design a Registration Form**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-registration-form)
+#### [38. **Design a Registration Form**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -469,7 +480,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [36. **Design a Contact Form**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-contact-form)
+#### [39. **Design a Contact Form**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -480,7 +491,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [37. **Build a Game Settings Panel**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-game-settings-panel)
+#### [40. **Build a Game Settings Panel**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -491,7 +502,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [38. **Design a Feature Selection Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-feature-selection-page)
+#### [41. **Design a Feature Selection Page**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -504,9 +515,7 @@ This README is a bit messy here and there, but it will become better in a few we
 
 #### _**The Box Model**_
 
-#### [39. **Design a Rothko Painting**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-rothko-painting)
-
-- **Languages:** _HTML & CSS_
+#### [42. **Design a Rothko Painting**]()
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Use CSS and the Box Model to create a Rothko-style painting step by step_
 - **Assignment Page:** _Soon_
@@ -515,7 +524,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [40. **Build a Confidential Email Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-confidential-email-page)
+#### [43. **Build a Confidential Email Page**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -528,7 +537,7 @@ This README is a bit messy here and there, but it will become better in a few we
 
 #### _**Flexbox**_
 
-#### [41. **Build a Flexbox Photo Gallery**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-flexbox-photo-gallery)
+#### [44. **Build a Flexbox Photo Gallery**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -537,11 +546,33 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### [45. **Design a Set of Colorful Boxes**]()
+
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Design a set of colorful boxes with Flexbox_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳ 
+
+#### [46. **Design a Pricing Plans Layout Page**]()
+
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Design price cards with HTML and CSS_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
 #### _**Typography**_
 
-#### [43. **Build a Nutritional Label**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-nutritional-label)
+#### [47. **Build a Nutritional Label**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -552,7 +583,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [44. **Build a Newspaper Article**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-newspaper-article)
+#### [48. **Build a Newspaper Article**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -565,7 +596,7 @@ This README is a bit messy here and there, but it will become better in a few we
 
 #### _**Accessibility**_
 
-#### [45. **Build a Quiz Webpage**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-quiz-webpage/)
+#### [49. **Build a Quiz Webpage**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -576,7 +607,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [46. **Build a Tribute Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-tribute-page/)
+#### [50. **Build a Tribute Page**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -589,7 +620,7 @@ This README is a bit messy here and there, but it will become better in a few we
 
 #### _**Positioning**_
 
-#### [47. **Build a Cat Painting**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-cat-painting/)
+#### [51. **Build a Cat Painting**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -600,7 +631,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [48. **Build a House Painting**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-house-painting/)
+#### [52. **Build a House Painting**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -613,7 +644,7 @@ This README is a bit messy here and there, but it will become better in a few we
 
 #### _**Attribute Selectors**_
 
-#### [49. **Build a Balance Sheet**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-balance-sheet/)
+#### [53. **Build a Balance Sheet**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -626,7 +657,7 @@ This README is a bit messy here and there, but it will become better in a few we
 
 #### _**Responsive Design**_
 
-#### [51. **Design a Piano**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-piano/)
+#### [54. **Design a Piano**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -639,8 +670,7 @@ This README is a bit messy here and there, but it will become better in a few we
 
 #### _**Variables**_
 
-#### [53. **Build a City Skyline**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-city-skyline/)
-
+#### [55. **Build a City Skyline**]()
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Build a city skyline using CSS variables_
@@ -650,7 +680,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [54. **Build an Availability Table**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-an-availability-table/)
+#### [56. **Build an Availability Table**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -663,7 +693,7 @@ This README is a bit messy here and there, but it will become better in a few we
 
 #### _**Grid**_
 
-#### [55. **Build a Magazine**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-magazine/)
+#### [57. **Build a Magazine**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -674,7 +704,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [56. **Design a Magazine Layout**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-magazine-layout/)
+#### [58. **Design a Magazine Layout**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -685,20 +715,9 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [57. **Build a Product Landing Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-product-landing-page/)
-
-- **Languages:** _HTML & CSS_
-- **Practical Activity:** _Lab_
-- **Assignment Description:** _Build a product landing page of a product of your choice_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** ⏳ 
-
 #### _**Animations**_
 
-#### [58. **Build an Animated Ferris Wheel**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-an-animated-ferris-wheel/)
+#### [59. **Build an Animated Ferris Wheel**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -709,7 +728,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [59. **Build a Moon Orbit**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-moon-orbit/)
+#### [60. **Build a Moon Orbit**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -720,7 +739,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [60. **Build a Flappy Penguin**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-flappy=penguin/)
+#### [61. **Build a Flappy Penguin**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -731,7 +750,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [61. **Build a Personal Portfolio Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-personal-portfolio-page/)
+#### [62. **Build a Personal Portfolio Page**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -745,7 +764,7 @@ This README is a bit messy here and there, but it will become better in a few we
 
 ### **CERTIFICATION PROJECTS**
 
-#### [**Build a Survey Form**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-survey-form)
+#### [**Build a Survey Form**]()
 
 - **From Category:** _HTML_ - Forms and Tables  
 - **Languages:** _HTML_
@@ -757,7 +776,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳  
 
-#### [**Build a Page of Playing Cards**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-page-of-playing-cards)
+#### [**Build a Page of Playing Cards**]()
 
 - **From Category:** _CSS_ - Flexbox  
 - **Languages:** _HTML & CSS_
@@ -769,7 +788,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [**Build a Book Inventory App**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-book-inventory-app/)
+#### [**Build a Book Inventory App**]()
 
 - **From Category:** _CSS_ - Attribute Selectors   
 - **Languages:** _HTML & CSS_
@@ -781,7 +800,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [**Build a Technical Documentation Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-technical-documentation-page/)
+#### [**Build a Technical Documentation Page**]()
 
 - **From Category:** _CSS_ - Responsive Design  
 - **Languages:** _HTML & CSS_
@@ -793,7 +812,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [**Build a Product Landing Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-product-landing-page/)
+#### [**Build a Product Landing Page**]()
 
 - **From Category:** _CSS_ - Grid
 - **Languages:** _HTML & CSS_
@@ -809,18 +828,18 @@ This README is a bit messy here and there, but it will become better in a few we
 
 ## 📬 How to reach me
 
-If you think you can help me through all of this, for comments, feedback ,to help out or just to cheer me on.  
-📩 You can reach me **[here](mailto:amy-van-leeuwen@proton.me)**
+Simply, **[here](mailto:amy-van-leeuwen@proton.me)**  
+Yep. 
 
-⭐ Thank you and bye! 👋🙂
+Thank you and bye! 👋🙂
 <img src="assets/pastel-banner.jpg" width="100%" height="5px" />
 
 ##### ℹ️ _P.S._ _P.S._ _P.S._ _P.S._ _P.S._
 
-A little fun fact while you wait for this README to finish.
+A little fun fact.
 
 💡 Did you know that animals can experience time differently from humans?  
-To smaller animals the world moves much slower! So if you are ever late, just tell your boss that you were accidently living on Salamander time 🦎
+To smaller animals the world moves much slower! So if you are ever late, just tell your boss that you were accidently living on Salamander time or something. 
 (thank you [Science Focus](https://www.sciencefocus.com/science/fun-facts))
 
 <img src="assets/pastel-banner.jpg" width="100%" height="5px" />
