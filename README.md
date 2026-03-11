@@ -105,78 +105,78 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [07. **Build a Travel Agency Page**]()
+#### [07. **Build a Travel Agency Page**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/07-build-a-travel-agency-page)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Build a page for a travel agency. Add images - including figcaptions, a list and various paragraphs._
-- **Assignment Page:** _Soon_
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/07-build-a-travel-agency-page/)
 - **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [08. **Build a HTML Music Player**]()
+#### [08. **Build a HTML Music Player**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/08-build-a-html-music-player)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Build a music player with HTML only._
-- **Assignment Page:** _Soon_
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/08-build-a-html-music-player/)
 - **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [09. **Build a HTML Video Player**]()
+#### [09. **Build a HTML Video Player**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/09-build-a-html-video-player)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Build a video player with HTML only._
-- **Assignment Page:** _Soon_
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/09-build-a-html-video-player/)
 - **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [10. **Build an HTML Audio and Video Player**]()
+#### [10. **Build an HTML Audio and Video Player**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/10-build-an-html-audio-and-video-player)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Build an HTML audio and video player using video and audio elements._
-- **Assignment Page:** _Soon_
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/10-build-an-html-audio-and-video-player/)
 - **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [11. **Build a Heart Icon**]()
+#### [11. **Build a Heart Icon**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/11-build-a-heart-icon)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Practice SVGs by building a heart icon._
-- **Assignment Page:** _Soon_
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/11-build-a-heart-icon/)
 - **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [12. **Build a Video Display Using Iframe**]()
+#### [12. **Build a Video Display Using Iframe**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/12-build-a-video-display-using-iframe)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Step by step learn to work with iframe element by building a video display_
-- **Assignment Page:** _Soon_
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/12-build-a-video-display-using-iframe/)
 - **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [13. **Build a Video Compilation Page**]()
+#### [13. **Build a Video Compilation Page**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/13-build-a-video-compilation-page)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Create a page with video's, to practice with Iframes_
-- **Assignment Page:** _Soon_
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/13-build-a-video-compilation-page/)
 - **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
