@@ -184,44 +184,44 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 
 #### _**Semantic HTML**_
 
-#### [14. **Build a List of Major Web Browsers**]()
+#### [14. **Build a List of Major Web Browsers**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/14-build-a-list-of-major-web-browsers/)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Build a html list with the top 5 major webbrowsers_
-- **Assignment Page:** _Soon_
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/14-build-a-list-of-major-web-browsers/)
 - **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [15. **Build Quincy's Job Tips Page**]()
+#### [15. **Build Quincy's Job Tips Page**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/15-build-quincys-job-tips-page)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Build a page with job tips from Quincy_
-- **Assignment Page:** _Soon_
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/15-build-quincys-job-tips-page/)
 - **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [16. **Build a Cat Blog Page**]()
+#### [16. **Build a Cat Blog Page**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/16-build-a-cat-blog-page)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Build step-by-step a blogpage for Mr Whiskers, including article posts, an about me and contact details_
-- **Assignment Page:** _Soon_
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/16-build-a-cat-blog-page/)
 - **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [17. **Build an Event Hub**]()
+#### [17. **Build an Event Hub**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/17-build-an-event-hub)
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Design an event hub with upcoming and past events. Including a header, navigation bar and sections with images and articles_
-- **Assignment Page:** _Soon_
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/17-build-an-event-hub/)
 - **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
@@ -229,34 +229,33 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 
 #### _**Forms and Tables**_
 
-#### [18. **Build a Hotel Feedback Form**]()
+#### [18. **Build a Hotel Feedback Form**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/18-build-a-hotel-feedback-form)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Build step by step a feedback form for a hotel with labels, inputs, fieldsets, legends, textareas and buttons_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ✔️
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/18-build-a-hotel-feedback-form/)
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [19. **Build a Final Exams Table**]()
+#### [19. **Build a Final Exams Table**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/19-build-a-final-exams-table)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _A step-by-step practice for HTML tables_
-- **Assignment Page:** _Soon_
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/19-build-a-final-exams-table/)
 - **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [20. **Build a Book Catalog Table**]()
+#### [20. **Build a Book Catalog Table**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/20-build-a-book-catalog-page)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Build a book catalog table with elements such as thead, tbody, th, tr, and td._
-- **Assignment Page:** _Soon_
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/20-build-a-book-catalog-page/)
 - **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
