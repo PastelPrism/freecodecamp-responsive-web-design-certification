@@ -111,7 +111,7 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Build a page for a travel agency. Add images - including figcaptions, a list and various paragraphs._
 - **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
@@ -122,7 +122,7 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Build a music player with HTML only._
 - **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
@@ -133,7 +133,7 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Build a video player with HTML only._
 - **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
@@ -144,7 +144,7 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Build an HTML audio and video player using video and audio elements._
 - **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
@@ -155,7 +155,7 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Practice SVGs by building a heart icon._
 - **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
@@ -166,7 +166,7 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Step by step learn to work with iframe element by building a video display_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
@@ -177,7 +177,7 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Create a page with video's, to practice with Iframes_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
