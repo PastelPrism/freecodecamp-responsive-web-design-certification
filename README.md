@@ -27,8 +27,8 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 
 | **Main Projects:** | **Certification Projects:** | **Extra Challenges:** |
 | ------------------ | ---------------------------- | --------------------- |
-| **Total Completed:** 0 / 61 | **Total Completed:** 0 / 5 | **Total Completed:** 0 / 61 |
-| **Remaining:** 61 | **Remaining:** 5 | **Remaining:** 61 |
+| **Total Completed:** 1 / 62 | **Total Completed:** 0 / 5 | **Total Completed:** 0 / 62 |
+| **Remaining:** 61 | **Remaining:** 5 | **Remaining:** 62 |
 | **Progress:** 0% Completed | **Progress:** 0% Completed | **Progress:** 6.9% Completed |
 
 ### **HTML Projects**
@@ -39,13 +39,13 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 
 #### _**Basic HTML**_ 
 
-#### [01. **Build a Curriculum Outline**]()
+#### [01. **Build a Curriculum Outline**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/build-a-curriculum-outline)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Add headings and paragraphs step by step_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
