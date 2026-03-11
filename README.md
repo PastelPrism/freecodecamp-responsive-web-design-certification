@@ -188,9 +188,9 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
-- **Assignment Description:** _Soon_
+- **Assignment Description:** _Build a html list with the top 5 major webbrowsers_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
@@ -199,9 +199,9 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
-- **Assignment Description:** _Soon_
+- **Assignment Description:** _Build a page with job tips from Quincy_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
@@ -212,7 +212,7 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Build step-by-step a blogpage for Mr Whiskers, including article posts, an about me and contact details_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
@@ -222,7 +222,7 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Design an event hub with upcoming and past events. Including a header, navigation bar and sections with images and articles_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
@@ -235,7 +235,7 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Build step by step a feedback form for a hotel with labels, inputs, fieldsets, legends, textareas and buttons_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
@@ -246,7 +246,7 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _A step-by-step practice for HTML tables_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
@@ -257,7 +257,7 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Build a book catalog table with elements such as thead, tbody, th, tr, and td._
 - **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
