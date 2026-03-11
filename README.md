@@ -27,9 +27,9 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 
 | **Main Projects:** | **Certification Projects:** | **Extra Challenges:** |
 | ------------------ | ---------------------------- | --------------------- |
-| **Total Completed:** 1 / 62 | **Total Completed:** 0 / 5 | **Total Completed:** 0 / 62 |
-| **Remaining:** 61 | **Remaining:** 5 | **Remaining:** 62 |
-| **Progress:** 0% Completed | **Progress:** 0% Completed | **Progress:** 6.9% Completed |
+| **Total Completed:** 5 / 62 | **Total Completed:** 0 / 5 | **Total Completed:** 0 / 62 |
+| **Remaining:** 57 | **Remaining:** 5 | **Remaining:** 62 |
+| **Progress:** 8% Completed | **Progress:** 0% Completed | **Progress:** 6.9% Completed |
 
 ### **HTML Projects**
 
@@ -39,57 +39,57 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 
 #### _**Basic HTML**_ 
 
-#### [01. **Build a Curriculum Outline**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/build-a-curriculum-outline)
+#### [01. **Build a Curriculum Outline**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/01-build-a-curriculum-outline)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Add headings and paragraphs step by step_
-- **Assignment Page:** _Soon_
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/01-build-a-curriculum-outline)
 - **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [02. **Debug Camperbots Profile Page**]()
+#### [02. **Debug Camperbots Profile Page**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/02-debug-camperbots-profile-page)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Debug the headings and paragraphs_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/02-debug-camperbots-profile-page)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [03. **Debug a Pet Adoption Page**]()
+#### [03. **Debug a Pet Adoption Page**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/03-debug-a-pet-adoption-page)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Debug the headings and paragraphs to pass_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/03-debug-a-pet-adoption-page/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [04. **Build a Cat Photo App**]()
+#### [04. **Build a Cat Photo App**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/04-build-a-cat-photo-app)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Set up a basic html website about cats_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/04-build-a-cat-photo-app/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [05. **Build a Recipe Page**]()
+#### [05. **Build a Recipe Page**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/05-build-a-recipe-page)
 
 - **Languages:** _HTML_ 
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Build a page with recipes for pancakes. The page should have an ordered and unordered list_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/05-build-a-recipe-page/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
