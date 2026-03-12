@@ -444,127 +444,128 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 
 #### _**Colors**_
 
-#### [36. **Build a Set of Colored Markers**]()
+#### [36. **Build a Set of Colored Markers**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/36-build-a-set-of-colored-markers)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Build a set of Color Markers with different ways to set color values_
-- **Assignment Page:** _Soon_
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/36-build-a-set-of-colored-markers/)
 - **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [37. **Design a Set of Colorful Boxes**]()
+#### [37. **Design a Set of Colored Boxes**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/37-design-a-set-of-colored-boxes)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Add background colors to grid items inside a color grid using Hsl, Hex and RGB_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ✔️
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/37-design-a-set-of-colored-boxes/)
+- **Assignment Status:** ✔️ 
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
 #### _**Styling Forms**_
 
-#### [38. **Design a Registration Form**]()
+#### [38. **Design a Registration Form**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/38-design-a-registration-form)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Design a Registration form and control what types of data is entered. Style the form with CSS_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/38-design-a-registration-form/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [39. **Design a Contact Form**]()
+#### [39. **Design a Contact Form**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/39-design-a-contact-form)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Design a contact form with HTML and style it with CSS_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/39-design-a-contact-form/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [40. **Build a Game Settings Panel**]()
+#### [40. **Build a Game Settings Panel**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/40-build-a-game-settings-panel)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Description:** _Build a settings panel for games with HTML and CSS_
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/40-build-a-game-settings-panel/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [41. **Design a Feature Selection Page**]()
+#### [41. **Design a Feature Selection Page**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/41-design-a-feature-selection-page)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Description:** _Design two feature selections with CSS_
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/41-design-a-feature-selection-page/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
 #### _**The Box Model**_
 
-#### [42. **Design a Rothko Painting**]()
+#### [42. **Design a Rothko Painting**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/42-design-a-rothko-painting)
+
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Use CSS and the Box Model to create a Rothko-style painting step by step_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/42-design-a-rothko-painting/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [43. **Build a Confidential Email Page**]()
+#### [43. **Build a Confidential Email Page**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/43-build-a-confidential-email-page)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Build an email page and mask some content with CSS selectors_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/43-build-a-confidential-email-page/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
 #### _**Flexbox**_
 
-#### [44. **Build a Flexbox Photo Gallery**]()
+#### [44. **Build a Flexbox Photo Gallery**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/44-build-a-flexbox-photo-gallery)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Use Flexbox to build a responsive photo gallery page_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/44-build-a-flexbox-photo-gallery/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [45. **Design a Set of Colorful Boxes**]()
+#### [45. **Design a Set of Colorful Boxes**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/45-design-a-set-of-colorful-boxes)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Design a set of colorful boxes with Flexbox_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/45-design-a-set-of-colorful-boxes/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [46. **Design a Pricing Plans Layout Page**]()
+#### [46. **Design a Pricing Plans Layout Page**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/46-design-a-pricing-plans-layout-page)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Design price cards with HTML and CSS_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/46-design-a-pricing-plans-layout-page/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
