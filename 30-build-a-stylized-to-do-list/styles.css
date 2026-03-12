@@ -1,0 +1,46 @@
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: hotpink;
+}
+
+a:hover {
+  color: green;
+}
+
+a:active {
+  color: orange;
+}
+
+a:focus {
+  border: 1px solid red;
+}
+
+a:visited {
+  color: purple;
+}
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: hotpink;
+}
+
+a:hover {
+  color: green;
+}
+
+a:active {
+  color: orange;
+}
+
+a:focus {
+  border: 1px solid red;
+}
+
+a:visited {
+  color: purple;
+}

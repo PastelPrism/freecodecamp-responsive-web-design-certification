@@ -350,94 +350,94 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 
 #### _**Basic CSS**_
 
-#### [28. **Design a Café Menu**]()
+#### [28. **Design a Café Menu**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/28-design-a-cafe-menu)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Build a stylish café menu, step by step_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/28-design-a-cafe-menu/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [29. **Design a Businesscard**]()
+#### [29. **Design a Businesscard**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/29-design-a-businesscard)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
-- **Assignment Description:** _Build a businesscard with style properties like color, font-size and text-align_, and more._
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Description:** _Build a businesscard with style properties like color, font-size and text-align, and more._
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/29-design-a-businesscard/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [30. **Build a Stylized To-do List**]()
+#### [30. **Build a Stylized To-do List**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/30-build-a-stylized-to-do-list)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Build a to-do list with different hover colors and styles_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/30-build-a-stylized-to-do-list/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [31. **Design a Blog Post Card**]()
+#### [31. **Design a Blog Post Card**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/31-design-a-blog-post-card)
 
 - **Languages:** _HTML &  CSS_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Design a simple but effective blog post card with margins, paddings, border-radius and different background colors_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/31-design-a-blog-post-card/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
 #### _**Absolute and Relative Units**_
 
-#### [32. **Build an Event Flyer Page**]()
+#### [32. **Build an Event Flyer Page**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/32-build-an-event-flyer)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Step by step create an event flyer page using absolute and relative CSS_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/32-build-an-event-flyer/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
 #### _**Pseudo Classes and Elements**_
 
-#### [33. **Design a Greeting Card**]()
+#### [33. **Design a Greeting Card**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/33-design-a-greeting-card)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Step by step design a greeting card with different types of pseudo-classes_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/33-design-a-greeting-card/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [34. **Design a Parent Teacher Conference Form**]()
+#### [34. **Design a Parent Teacher Conference Form**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/34-design-a-parent-teacher-conference-form)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Practice how to add custom styles to radio buttons_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/34-design-a-parent-teacher-conference-form/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [35. **Build a Job Application Form**]()
+#### [35. **Build a Job Application Form**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/35-build-a-job-application-form)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Build a job application form using pseudo classes like :hover, :active, :focus_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/35-build-a-job-application-form/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
