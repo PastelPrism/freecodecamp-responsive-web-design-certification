@@ -450,18 +450,18 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Build a set of Color Markers with different ways to set color values_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [37. **Design a Set of Colored Boxes**]()
+#### [37. **Design a Set of Colorful Boxes**]()
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Add background colors to grid items inside a color grid using Hsl, Hex and RGB_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
