@@ -8,7 +8,7 @@
 Hi there, my name is Amy! 👋
 
 This repository is part of a fun challenge to complete all fullstack of front-end developer courses. 
-For [freeCpdeCamp](https://www.freecodecamp.org) I decided to seperate the full curriculum, so here is part 1: the [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design-v9/) track.
+For [freeCodeCamp](https://www.freecodecamp.org) I decided to seperate the full curriculum, so here is part 1: the [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design-v9/) track.
 
 Inside, you’ll find all my labs, workshops, and certification projects from this track, including the extra assignments and tasks (for example, to make JavaScript only excersizes visible).  
 Up next: JavaScript Certification.
@@ -27,9 +27,9 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 
 | **Main Projects:** | **Certification Projects:** | **Extra Challenges:** |
 | ------------------ | ---------------------------- | --------------------- |
-| **Total Completed:** 5 / 62 | **Total Completed:** 0 / 5 | **Total Completed:** 0 / 62 |
-| **Remaining:** 57 | **Remaining:** 5 | **Remaining:** 62 |
-| **Progress:** 8% Completed | **Progress:** 0% Completed | **Progress:** 6.9% Completed |
+| **Total Completed:** 62 / 62 | **Total Completed:** 0 / 5 | **Total Completed:** 0 / 62 |
+| **Remaining:** 0 | **Remaining:** 5 | **Remaining:** 62 |
+| **Progress:** 100% Completed | **Progress:** 0% Completed | **Progress:** 0% Completed |
 
 ### **HTML Projects**
 
@@ -572,197 +572,200 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 
 #### _**Typography**_
 
-#### [47. **Build a Nutritional Label**]()
+#### [47. **Build a Nutritional Label**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/47-build-a-nutritional-label)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Use typography to build a nutrition label webpage step by step_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/47-build-a-nutritional-label/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [48. **Build a Newspaper Article**]()
+#### [48. **Build a Newspaper Article**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/48-build-a-newspaper-article)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Build a Newspaper article with different kind of fonts and font styles_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/48-build-a-newspaper-article/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
 #### _**Accessibility**_
 
-#### [49. **Build a Quiz Webpage**]()
+#### [49. **Build a Quiz Webpage**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/49-build-a-quiz-webpage)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Build a quiz webpage step by step, following accessibility standards_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/49-build-a-quiz-webpage/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [50. **Build a Tribute Page**]()
+#### [50. **Build a Tribute Page**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/50-build-a-tribute-page)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Build a tribute page about a subject of your own choice_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/50-build-a-tribute-page/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
 #### _**Positioning**_
 
-#### [51. **Build a Cat Painting**]()
+#### [51. **Build a Cat Painting**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/51-build-a-cat-painting)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Build step by step a painting of a cat, while learning about CSS positioning_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/51-build-a-cat-painting/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [52. **Build a House Painting**]()
+#### [52. **Build a House Painting**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/52-build-a-house-painting)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Build a painting of a house using various CSS positioning properties_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/52-build-a-house-painting/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
 #### _**Attribute Selectors**_
 
-#### [53. **Build a Balance Sheet**]()
+#### [53. **Build a Balance Sheet**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/53-build-a-balance-sheet)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Build a Balance Sheet step by step using pseudo selectors_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/53-build-a-balance-sheet/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
 #### _**Responsive Design**_
 
-#### [54. **Design a Piano**]()
+#### [54. **Design a Piano**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/54-design-a-piano)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Code step by step a piano using responsive design, pseudo selectors and media queries_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/54-design-a-piano/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
 #### _**Variables**_
 
-#### [55. **Build a City Skyline**]()
+#### [55. **Build a City Skyline**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/55-build-a-city-skyline)
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Build a city skyline using CSS variables_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/55-build-a-city-skyline/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [56. **Build an Availability Table**]()
+#### [56. **Build an Availability Table**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/56-build-an-availability-table)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Create an availability table that shows the availability of people for a meeting using CSS variables_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/56-build-an-availability-table/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
 #### _**Grid**_
 
-#### [57. **Build a Magazine**]()
+#### [57. **Build a Magazine**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/57-build-a-magazine)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Build a magazine step by step while practicing CSS Grid_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/57-build-a-magazine/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [58. **Design a Magazine Layout**]()
+#### [58. **Design a Magazine Layout**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/58-design-a-magazine-layout)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Design a magazine layout using CSS Grid_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/58-design-a-magazine-layout/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
 #### _**Animations**_
 
-#### [59. **Build an Animated Ferris Wheel**]()
+#### [59. **Build an Animated Ferris Wheel**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/59-build-an-animated-ferris-wheel)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Build step by step an animated Ferris Wheel using CSS animations_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/59-build-an-animated-ferris-wheel/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [60. **Build a Moon Orbit**]()
+#### [60. **Build a Moon Orbit**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/60-build-a-moon-orbit)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Create an animation of the moon orbiting earth using CSS animations_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/60-build-a-moon-orbit/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [61. **Build a Flappy Penguin**]()
+#### [61. **Build a Flappy Penguin**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/61-build-a-flappy-penguin)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Build step by step an animated penguin using CSS animations and CSS transforms_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/61-build-a-flappy-penguin/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 
-#### [62. **Build a Personal Portfolio Page**]()
+#### [62. **Build a Personal Portfolio Page**](https://github.com/PastelPrism/freecodecamp-responsive-web-design-certification/tree/main/62-build-a-personal-portfolio-page)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Build a personal portfolio page_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](http://pastelprism.github.io/freecodecamp-responsive-web-design-certification/62-build-a-personal-portfolio/)
+- **Assignment Status:** ✔️
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
 </details>
 
 ### **CERTIFICATION PROJECTS**
+
+<details>
+<summary><strong>All my answers from the certification projects can be found here</strong></summary>
 
 #### [**Build a Survey Form**]()
 
@@ -823,6 +826,8 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳ 
+
+</details>
 
 <img src="assets/pastel-banner.jpg" width="100%" height="5px" />
 
