@@ -3,7 +3,6 @@
 # Projects from freeCodeCamp
 
 ![Last Commit](https://img.shields.io/github/last-commit/PastelPrism/freecodecamp-responsive-web-design-certification)
-![Top Language](https://img.shields.io/github/languages/top/PastelPrism/freecodecamp-responsive-web-design-certification)
 
 Hi there, my name is Amy! 👋
 
